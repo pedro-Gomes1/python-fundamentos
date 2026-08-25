@@ -1,12 +1,18 @@
 # Estruturas Condicionais
 
-Exercícios utilizando estruturas condicionais em Python.
+Exercícios desenvolvidos para praticar estruturas de decisão em Python.
 
-## Conteúdos praticados
+## 📚 Conteúdos
 
 - `if`
 - `elif`
 - `else`
 - Operadores relacionais
 - Operadores lógicos
-- Validação de dados
+- Condições compostas
+- Tomada de decisão
+
+## 🎯 Objetivo
+
+Desenvolver a capacidade de criar programas que tomam decisões
+de acordo com diferentes condições.
