@@ -1,14 +1,19 @@
 # Variáveis e Entrada de Dados
 
-Exercícios relacionados aos fundamentos de Python.
+Exercícios desenvolvidos para praticar os fundamentos de entrada,
+saída e manipulação de dados em Python.
 
-## Conteúdos praticados
+## 📚 Conteúdos
 
 - Variáveis
-- Tipos de dados
 - `input()`
 - `print()`
-- Conversão de tipos
 - `int()`
 - `float()`
-- Strings
+- Operações matemáticas
+- Tipos de dados
+
+## 🎯 Objetivo
+
+Aprender a receber informações do usuário, armazenar valores em variáveis
+e realizar operações básicas.
