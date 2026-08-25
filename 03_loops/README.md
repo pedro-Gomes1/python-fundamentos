@@ -2,31 +2,17 @@
 
 Exercícios desenvolvidos para praticar estruturas de repetição em Python.
 
-## Conteúdos
+## 📚 Conteúdos
 
 - `for`
+- `while`
 - `range()`
-- Acumuladores
 - Contadores
+- Acumuladores
+- Repetição de operações
 - Iteração sobre sequências
-- Uso de funções em conjunto com loops
 
-## Exercícios
+## 🎯 Objetivo
 
-### Tabuada
-
-Programa que recebe um número e exibe sua tabuada de 1 a 10.
-
-### Soma de intervalo
-
-Programa que recebe dois números e calcula a soma dos valores presentes
-no intervalo.
-
-### Números ímpares
-
-Programa que identifica e exibe números ímpares dentro de determinado intervalo.
-
-### Crescimento populacional
-
-Programa que simula o crescimento de duas populações até que uma ultrapasse
-a outra.
+Desenvolver a capacidade de repetir operações de forma controlada
+e utilizar estruturas de repetição para resolver problemas.
